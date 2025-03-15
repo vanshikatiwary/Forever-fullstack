@@ -3,6 +3,7 @@ Forever E-commerce Website
 Forever is a full-featured e-commerce platform built using the MERN stack and styled with Tailwind CSS. It includes a customer-facing frontend, an admin panel for managing the store, and a backend to handle data and API requests.
 
 Features
+
 Frontend:
 
 Responsive and clean UI for browsing products.
